@@ -10,25 +10,24 @@ Barcode HAT for Raspberry Pi is a robust and compact barcode scanner board that 
 * [**/Design Data**](https://github.com/sbcshop/PiTalk_4G_Dongle_Hardware/tree/main/Design%20Data) - This directory contains Schematic and Dimension files
 * [**/Mechanical Data**](https://github.com/sbcshop/PiTalk_4G_Dongle_Hardware/tree/main/Mechanical%20Data) - This directory contains 3D and STEP files
 
-## Documentation
+ ## Documentation
 
-* [PiTalk 4G Dongle Software](https://github.com/sbcshop/PiTalk_4G_Dongle_Software)
+* [Pi Barcode HAT Software](https://github.com/sbcshop/Pi-Barcode-HAT-Software)
 * [Getting Started with Raspberry Pi](https://www.raspberrypi.com/documentation/computers/getting-started.html)
 * [Raspberry Pi Pico Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
 * [Raspberry Pi Datasheet](https://www.raspberrypi.com/documentation/computers/compute-module.html)
 * [Hardware Design](https://www.raspberrypi.com/documentation/computers/compute-module.html)
 * [Raspberry Pi](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
 
-
 ## Related Products
 
-* [PiTalk](https://shop.sb-components.co.uk/products/pitalk-modular-smartphone-for-raspberry-pi?variant=12516562436179)
+* [Zero Barcode HAT](https://shop.sb-components.co.uk/products/zero-barcode-hat?_pos=3&_sid=f80a0123d&_ss=r)
 
- ![PiTalk](https://cdn.shopify.com/s/files/1/1217/2104/products/PiTalk_-_Modular_SmartPhone_for_Raspberry_Pi_5.png?v=1528805795&width=400)
- 
- * [PiTalk 4G HAT]()
+ ![Zero Barcode HAT](https://cdn.shopify.com/s/files/1/1217/2104/products/4_75f6c562-c6a1-4eb2-9fb0-686b64f20010.jpg?v=1669181323&width=400)
 
- ![PiTalk 4G HAT]()
+* [Barcode Breakout](https://shop.sb-components.co.uk/products/barcode-breakout?_pos=2&_sid=f80a0123d&_ss=r)
+
+ ![Barcode Breakout](https://cdn.shopify.com/s/files/1/1217/2104/products/3_6c5d4598-fe42-4a18-8d8a-ab235e78c375.jpg?v=1665562539&width=400)
  
 ## Product License
 
